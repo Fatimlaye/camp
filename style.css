@@ -1,0 +1,10 @@
+body{
+    background-color: palevioletred;
+}
+body h1{
+    color: beige;
+}
+p:hover{
+    font-size: 20px;
+    color: beige;
+}
